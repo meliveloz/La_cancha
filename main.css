@@ -6,77 +6,32 @@
 	position: relative;
 
 }
-.lineasuperior{
-	width:770px ;
-	height: 5px;
-	background-color:white ;
+.cuadro{
+	width:760px;
+	height: 360px;
+	border:5px solid white;
 	position:absolute;
 	top:15px;
 	left: 15px;
 }
 
-.lineaderecha{
-	width:5px ;
-	height:370px;
-	background-color:white ;
-	position:absolute;
-	top:15px;
-	left: 780px;
-}
 
-.lineainferior{
-	width:770px ;
-	height: 5px;
-	background-color:white ;
-	position:absolute;
-	top:380px;
-	left: 15px;
-
-}
-.lineaizquierda{
-	width:5px ;
-	height:370px;
-	background-color:white ;
-	position:absolute;
-	top:15px;
-	left:15px;
-
-}
-.suparco{
+.arcoizquierdo{
 	width:123.3px ;
-	height:5px;
-	background-color:white ;
+	height:123.3px;
+	border:5px solid white ;
+	border-left: none;
 	position:absolute;
 	top: 138px;
 	left:20px;
 
 }
 
-.infarco{
+.arcoderecho{
 	width:123.3px ;
-	height:5px;
-	background-color:white ;
-	position:absolute;
-	top: 261.6px;
-	left:20px;
-
-}
-
-
-.derecharco{
-	width:5px ;
-	height:128.5px;
-	background-color:white ;
-	position:absolute;
-	top: 138px;
-	left:143.3px;
-
-}
-
-.suparco2{
-	width:123.3px ;
-	height:5px;
-	background-color:white ;
+	height:123.3px;
+	border:5px solid white ;
+	border-right: none;
 	position:absolute;
 	top: 138px;
 	left:656.7px;
@@ -84,27 +39,6 @@
 
 }
 
-.infarco2{
-	width:123.3px ;
-	height:5px;
-	background-color:white ;
-	position:absolute;
-	top: 261.6px;
-	left:656.7px;
-
-
-}
-
-
-.izquirdarco2{
-	width:5px ;
-	height:128.5px;
-	background-color:white ;
-	position:absolute;
-	top: 138px;
-	left:656.7px;
-
-}
 
 .circulomedio{
 	width: 150px;
